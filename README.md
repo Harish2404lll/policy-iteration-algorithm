@@ -95,6 +95,8 @@ def policy_iteration(P, gamma=1.0,theta=1e-10):
 ## optimal value function 
 ![Screenshot 2024-09-10 161820](https://github.com/user-attachments/assets/0a19309f-19cb-4a35-9684-ad689bc79056)
 
+## adversarial policy
+![image](https://github.com/user-attachments/assets/2bcead96-2dfa-4c5a-ab7c-56a57e9961ac)
 
 
 ## success rate for the optimal policy
